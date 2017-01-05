@@ -33,7 +33,10 @@ github:
 # Algolia
 gems:
   - algoliasearch-jekyll
-
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  
 algolia:
   application_id: 'latency'
   index_name: 'jekyll'
