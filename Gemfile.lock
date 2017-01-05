@@ -100,7 +100,7 @@ PLATFORMS
   x86-mingw32
 
 DEPENDENCIES
-  algoliasearch-jekyll (~> 0.7)
+  algoliasearch-jekyll (~> 0.7.0)
   jekyll (~> 2.5)
   jekyll-paginate
   jekyll-seo-tag
