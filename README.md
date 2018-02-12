@@ -18,3 +18,5 @@ We'll strive to keep this repository up to date with any update done to the
 original Hyde theme.
 
 [1]: https://github.com/algolia/algoliasearch-jekyll
+
+This is a fork and a test
