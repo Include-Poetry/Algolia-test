@@ -1,4 +1,4 @@
-# Hyde
+# Hyde test
 
 This repository holds our forked version of the popular Hyde theme for Jekyll
 ([original readme](./README-original.md)).
