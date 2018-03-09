@@ -19,4 +19,4 @@ original Hyde theme.
 
 [1]: https://github.com/algolia/algoliasearch-jekyll
 
-This is a fork and a test
+This is a fork and a test!
